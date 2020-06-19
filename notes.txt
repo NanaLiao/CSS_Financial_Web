@@ -1,0 +1,1 @@
+background: color url('') no-repeat center center/cover // section 5 45: aroud 8:40

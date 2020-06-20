@@ -36,13 +36,13 @@
 }
 
 .btn-dark, .bg-dark{
-  color: #333;
-  background-color: #28a745;
+  color: #fff;
+  background-color: #333;
 }
 
 .btn-light, .bg-light{
   color: #f4f4f4;
-  background-color: #333;
+  background-color: rgb(189, 181, 181);
 }
 
 .btn-outline{
